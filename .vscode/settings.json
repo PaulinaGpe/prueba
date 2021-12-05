@@ -1,0 +1,13 @@
+{
+    "liveshare.allowGuestDebugControl": true,
+    "liveshare.allowGuestTaskControl": true,
+    "liveshare.anonymousGuestApproval": "accept",
+    "liveshare.alwaysFollowHost": true,
+    "liveshare.guestApprovalRequired": true,
+    "liveshare.languages.allowGuestCommandControl": true,
+    "liveshare.presence": true,
+    "liveshare.publishWorkspaceInfo": true,
+    "liveshare.notebooks.allowGuestExecuteCells": true,
+    "liveshare.diagnosticMode": true,
+    "files.autoSave": "onFocusChange"
+}
